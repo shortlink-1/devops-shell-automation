@@ -1,3 +1,4 @@
+#!/bin/bash
 TOTALFREESPACE=$(free -mt | grep "Total" | awk '{print $4}')
 th=2000
 

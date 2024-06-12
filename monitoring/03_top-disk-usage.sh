@@ -7,3 +7,4 @@ du -ah "$path" | sort -rh | head -n 3 > /home/meghana/Desktop/scripts/file.txt
 
 # Print the contents of the file
 cat /home/meghana/Desktop/scripts/file.txt
+

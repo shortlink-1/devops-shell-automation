@@ -1,3 +1,5 @@
+
+
 #command : uname gives linux you can use uname -srm 
 #output :  Linux 6.2.0-39-generic x86_64
 #command : to get DIstrubution_id  is lsb_release -a
@@ -14,7 +16,7 @@
 
 
 # installing git software in different flavores of linux  -->Ubuntu / Debian-based: Fedora / CentOS / RHEL-based:
-#!/bin/bash
+
 
 
 if [[ $(uname) == "Linux" ]]; then 
